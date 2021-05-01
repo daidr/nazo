@@ -1,5 +1,5 @@
 $(function () {
-    let data = "d34d04ff16fd5a522637ad367a2b4256,ffe6ae4544d90c67cdb294f88a01037b,0973396d7bd0cfc7b8aeb9a5b6bce805,d18701ec119e29f13bce8f5cab50c796,96c28b91d4abb2cc90bc272a785cfe46";
+    let data = "d34d04ff16fd5a522637ad367a2b4256,d765cd9ba0a8486ed4af4a0827fee303,e2ff80672cb29d57dd595f4e0e80b025,dbc71a2fb26db86ece46a2d62fff88d8,62867f7f1edf5f9c4a9feb80c055ffa4";
     data = data.split(",")
     $(".verify").click(function () {
         let id = $(this).attr("data-id");
